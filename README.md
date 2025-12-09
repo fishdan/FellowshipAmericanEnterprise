@@ -15,4 +15,4 @@ This repo is the single source of truth for forming and operating the Fellowship
 - `documents/`: Drafts/placeholders for Articles, bylaws, policies, board records, IRS/EIN, and compliance materials.
 
 ## Open Decisions
-Tracked in the spec: registered agent/address, initial directors/officers, fiscal year, banking, and 1023-EZ eligibility.
+- Tracked in the spec: registered agent/address, initial directors/officers, fiscal year, banking, and 1023-EZ eligibility.
